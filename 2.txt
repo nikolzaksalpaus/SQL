@@ -1,0 +1,4 @@
+Olen syöttänyt sähköpostiosoitteeni moniin palveluihin, nimeni ja syntymäpäiväni.
+Nämä esimerkit voisivat olla: Google tili, Microsoft tili, Discord tilit, Github tili jne.
+Joillakuilla palveluilla on vain sähköposti ilman nimeäni ja syntymäpäiväni, se riippuu palvelusta.
+Minun tieto voi myös olla esimerkiksi hottelien, lentoyhtiöiden tai terveydenpalvelujen tietokannassa.
