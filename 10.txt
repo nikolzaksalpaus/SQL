@@ -1,0 +1,1 @@
+SELECT Kurssi.nimi, Kurssisuoritus.päivämäärä, Kurssisuoritus.arvosana FROM Kurssi, Kurssisuoritus WHERE Kurssisuoritus.kurssi = Kurssi.kurssitunnus

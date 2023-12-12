@@ -1,0 +1,1 @@
+SELECT * FROM Opiskelija WHERE nimi = 'Anna'

@@ -1,0 +1,1 @@
+SELECT DISTINCT pääaine FROM Opiskelija WHERE pääaine LIKE '%tiede%'

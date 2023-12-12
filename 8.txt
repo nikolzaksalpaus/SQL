@@ -1,0 +1,1 @@
+SELECT * FROM Kurssisuoritus WHERE opiskelija = (SELECT opiskelijanumero FROM Opiskelija WHERE nimi = 'Pihla')
